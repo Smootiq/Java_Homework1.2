@@ -12,7 +12,7 @@
 ## Описание процесса тестирования:
 
 В процессе тестирования использовались следующие артефакты:
-* "IntelliJ IDEA"
+* IntelliJ IDEA
 * Visual Studio Code
 
 В качестве тестовых данных использовались данные: https://www.jetbrains.com/toolbox-app/
